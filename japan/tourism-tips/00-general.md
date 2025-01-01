@@ -1,0 +1,29 @@
+Ostatnia aktualizacja: 2023-06-01
+
+# Wskazówki ogólne
+
+- Zawsze miej przy sobie trochę gotówki (10 000 JPY powinno na spokojnie wszystkie awaryjne sytuacje rozwiązać, chyba, że kogoś poniesie i zrobi jakiś rachunek na kilka tyś zł);
+- Bankomaty - najlepszy bankomat to ten z `7-11` / `7-bank` / `Seven-bank`, nie powinien w żaden sposób dokładać dodatkowych opłat - inne bankomaty to robią, szczególnie w porach wieczornych (tak, np. po godzinie 18 może dodać dużą prowizje albo w ogóle nie zadziałać);
+- Większość Japończyków się wstydzi gadać po angielsku (zakładając, że potrafią) wiec polecam korzystanie z google translate. Przy czym wpisywane teksty trzeba wpisywać bardzo łopatologiczne i konstruować proste zdania, ponieważ jak translator nie rozumie slangu/skrótów myślowych i generuje dziwne tłumaczenia; Japończycy w większości wypadków odpowiedzą wam po japońsku zamiast skorzystać z własnego telefonu do translacji więc zawsze można im wcisnąć swój telefon, żeby napisali albo powiedzieli do mikrofonu;
+- Jeśli ktoś ma tatuaże to w pewnych miejscach może być problem - szczególnie gorące źródła (`onsen`) lub łaźnie publiczne (lub wszystkie inne miejsca gdzie ciało jest widoczne) albo inne miejsca, gdzie tatuaż będzie widoczny; Jeśli jest mały możecie go zakleić plastrem i nie robią problemów;
+- Woda z kranu jest pitna, ale podobnie jak w Polsce lepiej najpierw przegotować;
+- W wielu miejscach będą widoczne albo 2 ceny, albo 1 cena, ale ostatecznie zapłacicie więcej, ponieważ standardem jest pokazywanie dużym tekstem, albo jedynym tekstem cenę bez podatku, a podatek małym tekstem lub w ogóle więc z tym ostrożnie - podatek to 8-10% zaleznie od produktu / usługi;
+- Do szybkiego przeliczania między jpy i pln można stosować poniższy przelicznik (nie zawsze jest dokładny, bo wiadomo wahania, ale jest to uśrednione):
+  - PLN = JPY / 30;
+  - JPY = PLN \* 30;
+- Tak, Japończycy to rasiści. Generalnie jeśli chodzi o akceptacje to `Japończyk > biały > inny Azjata > hindusi > Koreańczyk południowy > ciapaci > czarni`; W przypadku białych raczej nie robią problemów, raczej będą zainteresowani niż wrogo nastawieni - mówię oczywiście o miastach; Mogą się zdarzyć miejsca, gdzie nie maja wstępu obcokrajowcy ale to raczej mniejsze bary/małe knajpy - z własnego doświadczenia widziałem 1 knajpę gdzie był zakaz obcokrajowców (`gaijin`), ale są np. dzielnice gdzie można wejść tylko jak się jest zaproszonym przez kogoś z kręgu i tutaj też uważajcie; Są również miejsca, które nie są w żaden sposób ogrodzone ale są to prywatne tereny i można wpaść w kłopoty (np. niektóre uliczki Gion w Kyoto);
+- Jak dojdzie do sytuacji, w której ktoś będzie nawoływał - szczególnie czarni/ciapaci/itp (azjaci, japończycy też się zdarzają) - to absolutnie należy zrobić w tył zwrot. Uwaga, mogą być bardzo natarczywi. Generalnie "zapraszanie na tani alkohol" czy "masaż" skończy się rachunkiem na kilkadziesiąt tysięcy jak nie setek tysięcy JPY; Potencjalne miejsca, gdzie będą was próbować zaciągnąć to bary albo "masaże";
+- Uwaga na dzielnice:
+  - Tokyo: `Roppongi` i `Asakusa`;
+  - Kyoto: `Gion` (a raczej pewne boczne uliczki, bo ogólnie to bardo prestiżowa dzielnica);
+  - Osaka: `Nishinari` (to są "slumsy" dla obcokrajowców głównie, ale nie tylko), jest tutaj też ogromna (a właściwie to 3) dzielnice czerwonych latarni jak kogoś to interesuje;
+  - Oczywiście to nie tak, że jak tam ktoś wejdzie to natychmiast ktoś z nożem wyskoczy czy coś. Crime rate jest drastycznie mały, ale to nie znaczy, że go nie ma. Po prostu w tamtych miejscach można trafić na nieprzyjemne ulice czy czarnuchów co nawołują. Co nie znaczy, że to się nie zdarzy w innych miejscach;
+- Jeśli chodzi o wypadki na ulicy to największą rację ma przeważnie `pieszy > rower > auto > ciężarówka` (and so on, czym większy jesteś tym bardziej masz przejebane w razie wypadku); Uwaga na rowerzystów, oni tu jeżdżą jak pojebani. Przy nich, to w Polsce to są przykłady wspaniałych uczestników ruchu;
+- Najlepiej ogarnąć sobie japońskie karty sim, żeby mieć neta - ewentualnie pocket wifi. Ja miałem [Sakura Mobile](https://www.sakuramobile.jp/), ale są dość drodzy. Plusem jest to, że mają wszystko po angielsku więc łatwo ogarnąć i mogą nawet do polski karty wysłać, albo można odebrać na lotnisku z punktu;
+- Karty płatnicze - **Revolut** działa na pewno, inne karty - ja nie miałem problemu z MBank Kontem Wielo-walutowym i kartą **MASTERCARD** do niego (**VISA** chciała naliczać fee). Innym przykładem jest Inteligo, które już psioczyło;
+- W Kyoto i Osace dość luźno ludzie podchodzą do przechodzenia na czerwonym świetle, więc jak nic nie jedzie / nie ma zagrożenia to można przejść, co nie znaczy, że nadal jest to "nielegalne" (aczkolwiek kilka razy zdarzyło mi się przy kobanie albo policji i nikt mnie nie ścigał);
+- W wielu miejscach są toalety - kombini (7-11, FamilyMart, Lawson, stacje metra i kolejowe);
+- Pranie można zrobić np. w coin laundry;
+- W wielu miejscach - np. kombini, czy restauracjach ramen - będzie się płacić w automacie więc nie ma co panikować w takiej sytuacji;
+- Trzymanie się za ręce czy okazywanie prostych uczuć wobec 2 połówki w miejscach publicznych jest OK; Jak ktoś zacznie odwalać jakieś ostre rzeczy w knajpie czy coś to mogą wam zwrócić uwagę;
+- **Palenie** - wszystkie strefy (hotele, knajpy, ulice, sklepy etc) są domyślnie dla niepalących (chyba, że znak mówi inaczej) i jest zakaz palenia - wliczając w to ulicę; Jak ktoś będzie palić w wynajętym pokoju / hotelu to zostanie dojechany okropną karą; W teorii nie powinno się palić; Jak ktoś chce zapalić powinien iść do palarni albo do strefy palenia na ulicy (takie otwarte/zamknięte budki); W praktyce, jeśli chodzi o ulicę to, póki nie nikt nie będzie przeszkadzać innym i nie będzie zostawiał syfu to można zapalić (w ukryciu czy coś);
