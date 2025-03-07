@@ -1,6 +1,6 @@
 Ostatnia aktualizacja: 2023-06-07
 
-# 03. Zmiana wizy na małżeńską
+# 04. Zmiana wizy na małżeńską
 
 Wiza małżeńska:
 
@@ -76,28 +76,6 @@ Dodatkowe informacje:
 
 (\*1) Certyfikat zarejestrowanego małżeństwa w Polsce lub zaświadczenie o procesie rejestracji  
 Ten dokument jest wydawany w Polsce, lub przez Konsulat PL w Tokyo. Jeśli wzielismy ślub najpierw w JP i chcemy zarejestrować małżeństwo w Polsce, możemy to również zrobić przez konsulat.
+Więcej informacji [tutaj](https://github.com/F548D209/notes/blob/master/japan/marriage/02-marriage-registration.md#03-zarejestrowanie-ma%C5%82%C5%BCe%C5%84stwa-w-polsce).
 
-Dokumenty wymagane do tej procedury:
 
-- \[PL\] Wniosek - do pobrania ze strony konsulatu/ambasady;
-- \[PL\] Tłumaczenie koseki na język polski przez tłumacza przysięgłego (można skorzystać z usługi biura konsula);
-- \[JP\] Koseki Tohon - 戸籍謄本 - (aktualne, patrz wyżej i poprzednie posty);
-- \[JP\] Apostille Koseki Tohon - 戸籍謄本 - (aktualne, patrz wyżej i poprzednie posty);
-- Tłumaczenie imion i nazwisk z Koseki - kanji / kana / romaji - można zrobić samemu;
-- Opłata za wniosek 7858 JPY (na dzień 2023-09-08);
-
-Jeśli chcemy korzystać z usług tłumaczeń biura konsula:
-
-- Opłata 7858 JPY (na dzień 2023-09-08);
-
-Jeśli wszystko załatwiamy pocztą:
-
-- Dowody wpłaty określonych kwot;
-- Niebieski LetterPack (lub więcej niż 1) jeśli odpowiedzi chcemy również otrzymać pocztą, zaadresowane;
-
-Dodatkowo, nieobowiązkowo można przełożyć:
-
-- Adnotację z dodatkowymi prośbami:
-  - Prośba o przesłanie potwierdzenia złożenie wniosku - fizyczne - koszt: 4715 JPY (na dzień 2023-09-08);
-  - Prośba o przesłanie potwierdzenia złożenia wniosku - cyfrowe - koszt: 0 JPY (email) (na dzień 2023-09-08);
-  - Prośba o skorzystanie z usług tłumaczenia biura konsula;
